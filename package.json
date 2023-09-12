@@ -4,7 +4,7 @@
   "description": "Technical test qa engineer freelance dot",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run",
+    "test": "npx cypress run --reporter mochawesome",
     "open": "npx cypress open"
   },
   "repository": {

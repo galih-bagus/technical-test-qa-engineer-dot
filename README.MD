@@ -2,6 +2,10 @@
 
 This is pre test for join DOT as a Freelance QA Engineer
 
+## Test Case
+
+[Test Case](https://docs.google.com/spreadsheets/d/1RAt26NVUzRGYyRuNU2Yu86G9obotnOb2iUCurW4k3bg/edit?usp=sharing)
+
 ## Tech Stack
 
 **Automation E2E:** Cypress
@@ -47,5 +51,5 @@ Start the test
 Result can be see in
 
 ```bash
-  cypress/reports/html/index.html
+  cypress/mochawesome-report/html/index.html
 ```
