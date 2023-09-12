@@ -23,7 +23,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd pre-test-e2e
+  cd technical-test-qa-engineer-dot
 ```
 
 Set Up Environment
